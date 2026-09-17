@@ -2,5 +2,6 @@
 
 ### TODO
 
--aprender sobre branches
--conhecer comandos novos do git
+- aprender sobre branches
+- conhecer comandos novos do git
+- editar arquivo e passar para outra branch
